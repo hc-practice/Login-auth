@@ -11,7 +11,7 @@
 
 * [repo](https://github.com/hcherewaty/Login-auth)
 * [code sandbox](https://codesandbox.io/s/github/hcherewaty/Login-auth/tree/master/)
-* [travis]()
+* [travis](https://www.travis-ci.com/hcherewaty/Login-auth)
 
 
 ### Modules
